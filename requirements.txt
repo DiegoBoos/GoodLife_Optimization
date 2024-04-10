@@ -8,3 +8,4 @@ nbformat>=4.2.0
 seaborn
 scikit-learn
 imblearn
+scipy
